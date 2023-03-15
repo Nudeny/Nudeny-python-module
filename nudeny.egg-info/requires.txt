@@ -1,6 +1,0 @@
-certifi
-charset-normalizer
-idna
-Pillow
-requests
-urllib3
