@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+nudeny/__init__.py
+nudeny/nudeny.py
+nudeny.egg-info/PKG-INFO
+nudeny.egg-info/SOURCES.txt
+nudeny.egg-info/dependency_links.txt
+nudeny.egg-info/requires.txt
+nudeny.egg-info/top_level.txt
