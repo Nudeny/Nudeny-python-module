@@ -52,7 +52,8 @@ class Classify:
 class Detect:
 
     def __init__(self):
-        self.URL = "http://127.0.0.1:8000/"
+        self.LOCALHOST_URL = "http://127.0.0.1:8000/"
+        self.URL = "http://ec2-18-136-200-224.ap-southeast-1.compute.amazonaws.com/"
     
     def save_to_path(self, prediction, save_path):
         """
