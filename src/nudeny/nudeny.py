@@ -6,7 +6,7 @@ from PIL import Image
 class Classify:
     def __init__(self):
         self.LOCALHOST_URL = "http://127.0.0.1:8000/"
-        self.URL = "http://ec2-18-142-227-173.ap-southeast-1.compute.amazonaws.com/"
+        self.URL = "http://ec2-18-136-200-224.ap-southeast-1.compute.amazonaws.com/"
     
     def imageClassify(self, paths=[]):
         """
