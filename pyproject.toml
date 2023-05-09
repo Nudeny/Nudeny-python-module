@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Nudeny"
-version = "0.0.8"
+version = "0.0.10"
 description = "Image nudity classification and detection package."
 authors = ["Nudeny <thesis.nudeny69@gmail.com>"]
 license = "MIT"

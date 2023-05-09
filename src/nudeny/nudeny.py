@@ -64,6 +64,10 @@ class Detect:
             save_path (str): Save path
         """
         url = prediction['url']
+
+        if url == "":
+            return
+
         url_path = urlparse(url).path
         print(url_path)
         filename = url_path.split('/')[1]
